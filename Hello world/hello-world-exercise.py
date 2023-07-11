@@ -19,9 +19,9 @@
 # - Poti face exercitiile in fisierul asta sau poti crea unul numit 'solution.py'
 # - Grija sa pui noul fisier in folderul 'Hello world'
 # - La cuvintele in limba romana cel mai probabil vor fi subliniate fiindca PyCharm nu le cunoaste
-# - Variabilele incearca sa le denumesti cat mai sugestiv poti
-# - Intre exercitii fa un print care sa arate asa print(----- Ex [numar] -----)
-# - Intre exericitii in cod pune un comentariu asemanator cu print-ul
+# - Variabilele incearca sa le denumesti cat mai sugestiv
+# - Intre exercitii fa un print care sa arate asa- print(----- Ex [numar] -----)
+# - Intre exercitii in cod pune un comentariu asemanator cu print-ul
 # - Daca tii apasat CTRL(CMD) si apesi pe un link, te redirectioneaza catre site
 
 # Resurse:
@@ -31,3 +31,6 @@
 # https://www.w3schools.com/python/python_strings_concatenate.asp
 # https://www.w3schools.com/python/python_lists_methods.asp
 # https://www.w3schools.com/python/python_conditions.asp
+
+#     1     2     3     4     5     6     BONUS
+# 1 + 1.5 + 1.5 + 1.5 + 1.5 + 1.5 + 1.5 + 1
