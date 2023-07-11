@@ -22,14 +22,14 @@ print(a * b)
 print('----- Ex 3 -----')
 if a > b:
     print(a)
-if a < b:
+else:
     print(b)
 
 # ----- Ex 4 -----
 print('----- Ex 4 -----')
 if e == True:
     print(d + 'adev vtm')
-elif e == False:
+else:
     print("nu se poate asa ceva")
 
 # ----- Ex 5 -----
